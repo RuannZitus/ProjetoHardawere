@@ -2,6 +2,8 @@ import RPi.GPIO as GPIO
 import time
 import random
 
+#ruan é a maior baitola desse universo! 😁
+
 # Setup
 GPIO.setmode(GPIO.BCM)
 
